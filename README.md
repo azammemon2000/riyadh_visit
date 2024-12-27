@@ -25,3 +25,10 @@ Lulu Hypermarket Taj Center = Metro Bus Stop Al Batha 102, Bus numbers going 7, 
 3. Board the <b>metro 1 (BLUE LINE)</b> Towards <b>KAFD Station</b> from <b>SAB Station</b><br/>
 4. Get off at <b>KAFD station</b><br/>
 5. Take Taxi from KAFD Station to go to Boulevard World or Wonder Garden or Boulevard Runway
+
+<h2>Lulu Market - Khurais Road:</h2>
+1. Board the metro 2 (RED LINE) Towards <b>King Fahd Sports City</b> from <b>An Nuzhah Station</b><br/>
+2. Get off at <b>Al Hamra station</b><br/>
+3. Board the <b>metro 6 (PURPLE LINE)</b> Towards <b>Khurais Road</b> from <b>As Salam Station</b><br/>
+4. Get off at <b>Khurais Road station</b><br/>
+5. Take Taxi from Riyadh Metro Station KHurais Road to go to Lulu Market (4.5 KM)
