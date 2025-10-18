@@ -9,6 +9,7 @@ Places and Nearby Metro Stations
 <br/>
 Lulu Hypermarket Taj Center = Metro Bus Stop Al Batha 102, Bus numbers going 7, 9, 16, 160, 913<br/>
 <br/>
+<br/>
 <h2>Riyadh Zoo:</h2>
 1. Board the metro 2 (RED LINE) Towards <b>King Saud University</b> from <b>An Nuzhah Station</b><br/>
 2. Get off at <b>Ministry of Education station</b><br/>
@@ -25,30 +26,33 @@ Lulu Hypermarket Taj Center = Metro Bus Stop Al Batha 102, Bus numbers going 7, 
 3. Board the <b>metro 1 (BLUE LINE)</b> Towards <b>KAFD Station</b> from <b>SAB Station</b><br/>
 4. Get off at <b>KAFD station</b><br/>
 5. Take Taxi from KAFD Station to go to Boulevard World or Wonder Garden or Boulevard Runway
-
+<br/>
+<br/>
+<br/>
 
 <h2>Al Watan Park</h2>
-1. Get off on Green line last station <b>National Museum</b>
-2. Take Exit 1, and cross the road
-3. after crossing the road, take left and you will see enterance on right
-Location: https://maps.app.goo.gl/E5Vhe6UCzUfJHBEVA
-
-Information: 
-1. On Friday at 8:00 pm there is a shows for kids, on the stage, where mario, joker and other characters come and dance on different songs
-2. Bumper cars separate for kids and adults
-3. Sand and slides area
-4. Boat to take a round
-5. Food court
-
+1. Get off on Green line last station <b>National Museum</b><br/>
+2. Take Exit 1, and cross the road<br/>
+3. after crossing the road, take left and you will see enterance on right<br/>
+Location: https://maps.app.goo.gl/E5Vhe6UCzUfJHBEVA<br/>
+<br/>
+Information: <br/>
+1. On Friday at 8:00 pm there is a shows for kids, on the stage, where mario, joker and other characters come and dance on different songs<br/>
+2. Bumper cars separate for kids and adults<br/>
+3. Sand and slides area<br/>
+4. Boat to take a round<br/>
+5. Food court<br/>
+<br/>
+<br/>
 <h2>Parsi Park - حديقة الفارسي</h2>
-1. Get off on <b>Al Khaleej</b> station of RED Line
-2. Take an exit ## and <b>Head northeast toward Al Sahaba Rd</b>
+1. Get off on <b>Al Khaleej</b> station of RED Line<br/>
+2. Take an exit ## and <b>Head northeast toward Al Sahaba Rd</b><br/>
+Location: https://maps.app.goo.gl/8nooD6CBhKdbeFJJ7<br/>
+<br/>
+Information:<br/>
+1. No food area or availbility of food nearby, so take your food with you<br/>
 
-Information:
-1. No food area or availbility of food nearby, so take your food with you
-
-
-Location: https://maps.app.goo.gl/8nooD6CBhKdbeFJJ7
+<br/>
 
 
 
