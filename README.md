@@ -46,13 +46,16 @@ Information: <br/>
 <br/>
 <h2>Parsi Park - حديقة الفارسي</h2>
 1. Get off on <b>Al Khaleej</b> station of RED Line<br/>
-2. Take an exit ## and <b>Head northeast toward Al Sahaba Rd</b><br/>
+2. Take an exit 1 and <b>Head left side, cross the road</b> and there is there is the part<br/>
 Location: https://maps.app.goo.gl/8nooD6CBhKdbeFJJ7<br/>
 <br/>
 Information:<br/>
-1. No food area or availbility of food nearby, so take your food with you<br/>
-
+1. No food area or availbility of food nearby, only some people keeping kids chocolates and snacks and there is Kudu nearby but not in the park, so take your food with you<br/>
+2. Its small part, and has cars and cycles available for rent<br/>
 <br/>
+
+<h2>Rawadah Park</h2>
+Location: https://maps.app.goo.gl/BefXDfxQeYRhSg7d6
 
 
 
