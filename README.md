@@ -54,8 +54,21 @@ Information:<br/>
 2. Its small part, and has cars and cycles available for rent<br/>
 <br/>
 
+<h1>To Visit</h1>
 <h2>Rawadah Park</h2>
 Location: https://maps.app.goo.gl/BefXDfxQeYRhSg7d6
+
+<h2>Roshan Front</h2>
+<h2>Al Hamra Mall</h2>
+<h2>Lakes Park Riyadh</h2>
+<h2>Salam Park</h2>
+<h2>King Abdulaziz national park</h2>
+<h2>Wadi e Hanifa</h2>
+<h2>Bujairi Terrance</h2>
+<h2>Othaim Mall</h2>
+<h2>The view mall</h2>
+<h2>Al Nakheel Mall</h2>
+
 
 
 
